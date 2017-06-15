@@ -1,5 +1,5 @@
 ---
-title: "nuevo"
+title: "nuevo titulo"
 author: "Loreto Martínez de Baroja Villalón"
 date: "15 de junio de 2017"
 output: html_document
